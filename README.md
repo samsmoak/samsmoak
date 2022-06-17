@@ -8,6 +8,7 @@
 - 📫 How to reach me: ...twitter
 - 😄 Pronouns: ...he/his
 - ⚡ Fun fact: ...nothing beats a classical music in the morning
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsmoak&hide=contribs,prs)
 
 
 
