@@ -1,4 +1,5 @@
-### Hi there 👋 I'm ZIH SAMUEL ENAM
+Hi there 👋 
+I'm ZIH SAMUEL ENAM , i'm a full stack web developer from Ghana.I'm currently completing my bachelors in computer science and engineering in Lovely Professional University, (india).
 
 - 🔭 I’m currently working on ...Uber eats clone
 - 🌱 I’m currently learning ...microservice architecture
