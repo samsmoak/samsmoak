@@ -2,8 +2,8 @@
 #### Fullstack Web Developer
 i'm a full stack web developer from Ghana. I'm currently in my final year of B.tech computer science and engineering in Lovely Professional University, (india)
 
-##Skills And Experience
-##⚛️ React js , REDUX ,NODE JS,EXPRESS js , MONGO DB, DOCKER , KUBERNETES, HTML ,CSS ,BOOTSTRAP ,TAILWINDCSS
+- Skills And Experience
+- ⚛️ React js , REDUX ,NODE JS,EXPRESS js , MONGO DB, DOCKER , KUBERNETES, HTML ,CSS ,BOOTSTRAP ,TAILWINDCSS
    
 
 - 🔭 I’m currently working on Uber eats clone 
