@@ -2,15 +2,16 @@
 #### Fullstack Web Developer
 i'm a full stack web developer from Ghana. I'm currently in my final year of B.tech computer science and engineering in Lovely Professional University, (india)
 
-- Skills And Experience
-- ⚛️ React js , REDUX ,NODE JS,EXPRESS js , MONGO DB, DOCKER , KUBERNETES, HTML ,CSS ,BOOTSTRAP ,TAILWINDCSS
    
-
 - 🔭 I’m currently working on Uber eats clone 
 - 🌱 I’m currently learning microservice architecture 
 - 👯 I’m looking to collaborate on opensource projects 
 - 💬 Ask me about frontend and backend technologies 
 - ⚡ Fun fact: nothing beats a classical music in the morning 
+
+
+- Skills And Experience
+- ⚛️ React js , REDUX ,NODE JS,EXPRESS js , MONGO DB, DOCKER , KUBERNETES, HTML ,CSS ,BOOTSTRAP ,TAILWINDCSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samsmoak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-zih-9bb9b3190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samuel.zih.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCNwY1gDw_QpVKVMujtLW7-A)  
