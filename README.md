@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samuel-zih-9bb9b3190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-zih-9bb9b3190" height="30" width="40" /></a>
 <a href="https://fb.com/samuel.zih.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel.zih.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCNwY1gDw_QpVKVMujtLW7-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel zih" height="30" width="40" /></a>
+<a href="https://www.youtube.com/UCNwY1gDw_QpVKVMujtLW7-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel zih" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
