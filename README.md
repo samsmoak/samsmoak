@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm zih samuel enam</h1>
-<h3 align="center">I'm a fullstack web developer and I'm a currently a fourth year B.tech CSE student</h3>
+<h3 align="center">I'm a fullstack web developer and I'm  currently a fourth year B.tech CSE student</h3>
 <img
 	src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 	alt="coding"
